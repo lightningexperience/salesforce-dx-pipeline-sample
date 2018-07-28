@@ -14,10 +14,10 @@ set -o nounset    # fail on unset variables
 TICKS=$(echo $(date +%s | cut -b1-13))
 
 # Name of your team (optional)
-HEROKU_TEAM_NAME="appcloud-dev"
+HEROKU_TEAM_NAME="igappcloud-dev"
 
 # Descriptive name for the Heroku app
-HEROKU_APP_NAME="MyLightningApp"
+HEROKU_APP_NAME="igMyLightningApp"
 
 # Name of the Heroku apps you'll use
 HEROKU_DEV_APP_NAME="igdevTICKS"
