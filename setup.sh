@@ -20,24 +20,24 @@ HEROKU_TEAM_NAME="appcloud-dev"
 HEROKU_APP_NAME="MyLightningApp"
 
 # Name of the Heroku apps you'll use
-HEROKU_DEV_APP_NAME="dev$TICKS"
-HEROKU_STAGING_APP_NAME="staging$TICKS"
-HEROKU_PROD_APP_NAME="prod$TICKS"
+HEROKU_DEV_APP_NAME="igdevTICKS"
+HEROKU_STAGING_APP_NAME="igstagingTICKS"
+HEROKU_PROD_APP_NAME="igprodTICKS"
 
 # Pipeline
-HEROKU_PIPELINE_NAME="pipeline$TICKS"
+HEROKU_PIPELINE_NAME="igpipelineTICKS"
 
 # Usernames or aliases of the orgs you're using
-DEV_HUB_USERNAME="HubOrg"
-DEV_USERNAME="DevOrg"
-STAGING_USERNAME="TestOrg"
-PROD_USERNAME="ProdOrg"
+DEV_HUB_USERNAME="ffaizi-dx@force.com"
+DEV_USERNAME="ffaizi-ig@force.com"
+STAGING_USERNAME="ffaizi-ig@force.com"
+PROD_USERNAME="ffaizi-ig@force.com"
 
 # Repository with your code
-GITHUB_REPO="wadewegner/salesforce-dx-pipeline-sample"
+GITHUB_REPO="lightningexperience/salesforce-dx-pipeline-sample"
 
 # Your package name
-PACKAGE_NAME="PipelineSamplePackage2"
+PACKAGE_NAME="igPipelineSamplePackage2"
 
 ### Setup script
 
